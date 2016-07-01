@@ -1,5 +1,7 @@
 # gulp-language-tool
 
+[![Join the chat at https://gitter.im/Illizian/gulp-language-tool](https://badges.gitter.im/Illizian/gulp-language-tool.svg)](https://gitter.im/Illizian/gulp-language-tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A plugin for gulp that enables spelling & grammar checks on html and markdown files.
 
 **Alpha** This is a prototype and due a refactor. See [Todo](#todo) for more info.
